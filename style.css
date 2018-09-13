@@ -1,0 +1,35 @@
+body
+{
+	background-image: url(http://cdn.wallpapersafari.com/96/71/LOgpSy.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	text-align: center;
+}
+
+#Container{
+  margin: auto;
+  text-align: center;
+}
+
+#canvas{
+  display: block;
+  margin: 100px auto;
+  background-color: aliceblue;
+  border: 2px solid black;
+}
+
+#Timer{
+	color: #73c6b6;
+	text-align: center;
+
+}
+
+#Title{
+  border: 2px solid black;
+	background-color: Maroon;
+	font-size: 20px;
+}
+
+#Restart{
+	text-align: center;
+}
